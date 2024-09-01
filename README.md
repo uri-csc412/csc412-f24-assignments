@@ -1,3 +1,3 @@
-# csc412-f24-assignments
+# URI CSC 412 - Fall 24 Assignments
 
-Stencil code for assignments for CSC 412 at the University of Rhode Island for Fall 2024.
+This is where the stencil code for the assignments lives :)
